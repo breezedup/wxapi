@@ -1,0 +1,9 @@
+{
+
+  "menu_create":"https://api.weixin.qq.com/cgi-bin/menu/create",
+  "menu_get_current_selfmenu_info":"https://api.weixin.qq.com/cgi-bin/get_current_selfmenu_info",
+  "menu_delete":"https://api.weixin.qq.com/cgi-bin/menu/delete",
+  "menu_addconditional": "https://api.weixin.qq.com/cgi-bin/menu/addconditional",
+  "menu_delconditional": "https://api.weixin.qq.com/cgi-bin/menu/delconditional",
+  "menu_trymatch": "https://api.weixin.qq.com/cgi-bin/menu/trymatch"
+}
