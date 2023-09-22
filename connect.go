@@ -2,7 +2,7 @@ package wxapi
 
 import (
 	"encoding/json"
-	"github.com/breezedup/wxapi/common"
+	"wxapi/common"
 )
 
 func NewConnect(appId, appSecret string) *Result {

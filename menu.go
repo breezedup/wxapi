@@ -2,7 +2,7 @@ package wxapi
 
 import (
 	"fmt"
-	"github.com/breezedup/wxapi/common"
+	"wxapi/common"
 )
 
 func NewMenu() menuInter {
